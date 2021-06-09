@@ -1,0 +1,282 @@
+ *{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+    background-size: cover;
+}
+
+body {
+    font-family: "Gothic A1", sans-serif;
+    resize: fixed;
+    background: rgb(151,98,199);
+    background: radial-gradient(circle, rgba(151,98,199,1) 48%, rgba(143,69,209,1) 97%);
+    
+    
+}
+
+.headline {
+    border: white solid;
+    border-radius: 8px;
+    border-width: 5px;
+    background: rgb(246,141,84);
+    background: radial-gradient(circle, rgba(246,141,84,1) 0%, rgba(198,110,16,1) 87%);
+    background-size: cover;
+
+}
+
+.headline p {   
+    font-family: 'Gothic A1', sans-serif;
+    padding-top: 10px;
+    font-size: 20px;
+    background-size: cover;
+}
+
+.cabecalio {
+    background: rgb(151,98,199);
+    background: radial-gradient(circle, rgba(151,98,199,1) 48%, rgba(143,69,209,1) 97%);
+    background-size: cover;
+    text-align: center;
+
+}
+
+.cabecalio img {
+    width: 50px;
+    margin: 0px;
+    background-size: cover;
+
+}
+
+
+
+.header {
+    text-align: center;
+    Padding: 10px 0px 10px 0px;
+    font-size: 40px;
+    font-family: 'Sigmar One', cursive;
+    color: #E07600;
+    width: cover;
+    
+    
+}
+
+header {
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    background-size: cover;
+
+}
+
+
+
+.content {  
+    
+    background: rgb(241,191,112);
+    background: linear-gradient(158deg, rgb(223, 124, 19) 57%, rgba(151, 83, 10, 0.74) 98%);
+    
+    padding: 30px;
+    width: cover;
+    background-size: cover;
+    
+
+}
+
+.footer {
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+    background: rgb(151,98,199);
+    background: radial-gradient(circle, rgba(151,98,199,1) 48%, rgba(143,69,209,1) 97%);
+    background-size: cover;
+    color: #E07600;
+    font-family: "Sigmar One", cursive;
+}
+
+.ícone {
+    display: block;
+    list-style-type: none;
+
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.navbar {
+    width: 17%;
+    background: rgb(16, 122, 60);
+    background: linear-gradient(300deg, rgb(90, 194, 150) 27%, rgb(71, 212, 158) 64%);
+    padding: 30px;
+    
+    
+}
+
+.navbar ul li {
+    border-radius: 50px 0px;
+    background: rgb(149,100,194);
+    background: linear-gradient(103deg, rgba(149,100,194,1) 37%, rgba(174,118,223,1) 71%);
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 60px;
+    background-size: cover;
+
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+
+}
+
+article {   
+    text-align: center;
+    color: white;
+
+}
+
+.Títulos {
+    font-family: 'Volkhov', serif;
+    font-size: 30px;
+}
+
+h1 {
+
+    padding: 0px 0px 0px 0px;
+
+
+}
+
+h2 {    
+    padding: 100px 0px 100px 0px;
+
+}
+
+.stories {
+    display: flex;
+    
+}
+
+.News img {
+    Width: 450px;
+    margin: 20px;
+
+}
+
+.News-title ul {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.News-title1 {
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.News-block {
+    justify-content: space-around;
+    margin: 0px 300px 10px 10px;
+    
+
+}
+
+.News-description ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 30px 2px 10px;
+}
+
+.News-description li {
+    width: 360px;
+    font-weight: bold;
+
+}
+
+.Presentation {
+    padding: 40px 0px 40px 0px;
+    font-size: 30px;
+}
+
+.Presentation-Description {
+    padding: 40px 0px 40px 0px;
+    font-size: 20px;
+}
+
+.Artifacts-description ul {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 30px 2px 10px;
+}
+
+.Artifacts-description li {
+    width: 360px;
+    font-weight: bold; 
+
+}
+
+.Artifacts {
+    display: flex;
+}
+
+.Sample img {
+    Width: 450px;
+    margin: 20px;
+
+}
+
+.Sample-title ul {
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.Sample-title1 {
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.Sample2 img {
+    Width: 190px;
+    margin: 20px;
+}
+
+.Artifact-block {
+     justify-content: space-around;
+     margin: 0px 50px 10px 10px;
+
+}
+
+.Artifact-title2 {
+    margin: 0px 0px 10px 100px;
+
+}
+
+.Artifact-title3 {
+    margin: 0px -100px 10px -100px;
+
+}
+
+.EULAimages  {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.EULAimages img {
+    width: 200px;
+    margin: 0px 50px 0px 50px
+    
+
+}
+
+
+.Eula-Description p {
+    padding: 40px 0px 40px 0px;
+    
+}
+
